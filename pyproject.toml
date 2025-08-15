@@ -17,5 +17,5 @@ pynvim = "*" # Allows nvim users to use black formatting
 [[tool.poetry.source]]
 name = 'default'
 url = 'https://pypi.python.org/simple'
-secondary = false
+
 
